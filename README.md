@@ -1,6 +1,6 @@
 # Flappy-Bird
 
-•  Created a captivating and rigorous gaming experience by developing a # Flappy Bird game using # HTML, # CSS, and # JavaScript
+•  Created a captivating and rigorous gaming experience by developing a  Flappy Bird game using  HTML,  CSS and  JavaScript
 
 •  Established seamless gameplay mechanics, meticulously crafted interface, and an array of challenging obstacles for players
 
